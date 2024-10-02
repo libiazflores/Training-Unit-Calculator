@@ -1,0 +1,8 @@
+
+Problema 12. Pendiente
+
+Una recta pasa por el punto A se encuentra en las coordenadas (5,-3) y por el punto B en las coordenadas (-4,3). ?¿Cuál es la pendiente que tiene esta recta?
+
+a) 1.5
+b) -1.5
+c) 1

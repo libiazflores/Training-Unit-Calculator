@@ -1,0 +1,9 @@
+
+Problema 3. Tiempo
+
+Calcula el tiempo en el que un carro que inició con una velocidad de 30, con aceleraciones de 10 y finalizó con una velocidad de 120:
+
+a) 9
+b) 20
+c) 0
+

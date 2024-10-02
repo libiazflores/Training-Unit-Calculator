@@ -1,0 +1,10 @@
+
+Escribe la letra del inciso correcto
+
+Problema 1. Distancia Maxima- Gravedad
+
+Un astronauta en otro planeta salta una distancia maxima 15.5 metros con velocidad inicial de 3.3 m/s. Sin considerar la resistencia del aire, encuentra la aceleración de la gravedad en este planeta. 
+
+a) 1.551
+b) 0
+c) 0.703

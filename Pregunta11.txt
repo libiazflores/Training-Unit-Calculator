@@ -1,0 +1,8 @@
+
+Problema 11. Tiempo
+
+Se tiene un automóvil  con un automóvil con un velocidad inicial de 0 m/s, después de una aceleración de 4 m/s^2 el carro avanzó a una velocidad de 37 m/s. ¿En cuanto tiempo el carro realizó este cambio de velocidades?
+
+a) 9.5
+b) 9
+c) 8.5

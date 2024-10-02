@@ -1,0 +1,8 @@
+
+Problema 2. Aceleración
+
+¿Cuál es la aceleración de una motocicleta que empieza del reposo y en 20 segundos termina con una velocidad de 60 m/s?
+
+a) 10
+b) 3
+c) 8

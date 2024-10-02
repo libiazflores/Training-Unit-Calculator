@@ -1,0 +1,8 @@
+
+Problema 16. Ángulo
+
+Un vector de magnitud de  5N se encuentra en las coordenadas 7 en el eje X y -5 en el eje Y. ¿Cuál es la dirección que tiene este vector?
+
+a) -35.54
+b) 234.46
+c) 144.46

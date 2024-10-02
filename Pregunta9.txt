@@ -1,0 +1,8 @@
+
+Problema 9. Distancia 
+
+Dos amigos juegan a tirar pelotas de goma. Kimy tira su pelota con una velocidad inicial de  15 m/s y Panchito a 20m/s. Si la pelota de Kimy tiene desaceleración de 1 m/s y la de Panchito de 2 m/s ¿Cuál llega más lejos antes de detenerse?
+
+a) La pelota de Kimy
+b) La pelota de Panchito
+c) Ambos llegan igual de lejos

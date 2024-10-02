@@ -1,0 +1,8 @@
+
+Problema 5. Velocidad Final
+
+Si un automóvil se desplaza de manera acelerada a razón de 15 m/s partiendo del reposo ¿Cuál es la velocidad final después de 20 segundos?
+
+a) 250
+b) 300
+c) 400

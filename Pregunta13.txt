@@ -1,0 +1,8 @@
+
+Problema 13. Aceleración promedio
+
+Un automóvil tenía una aceleración de 2.5 m/s^2 en el primer segundo, al pasar tres segundos la aceleración de dicho automóvil cambió a 3.7 m/s^2. ?¿Cuál es la aceleración promedio de este automóvil?
+
+a) 0.4
+b) 0.5
+c) 4

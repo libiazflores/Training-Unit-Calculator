@@ -1,0 +1,8 @@
+
+Problema 4. Velocidad Inicial
+
+Un gato salta una altura de 13.6 metros cuando deja el suelo a un ángulo de 43.7°. ¿Cuál es la velocidad inicial, en m/s, del puma al saltar?
+
+a) 13.053
+b) 12.598
+c) 6.451

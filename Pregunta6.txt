@@ -1,0 +1,8 @@
+
+Problema 6. Posición 
+
+Si una van empieza su viaje a una velocidad de 20 km/h. Cuántos metros recorre en 3 horas
+
+a) 600 m 
+b) 60000 m
+c) 60 m

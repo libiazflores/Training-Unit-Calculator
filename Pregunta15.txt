@@ -1,0 +1,8 @@
+
+Problema 15. Posición en X
+
+¿Cuál es la posición en el eje X de un punto que se encuentra en 5 y avanzó con una velocidad de 15m/s por 10 segundos ?
+
+a) 75
+b) 25
+c) 125

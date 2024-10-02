@@ -1,0 +1,8 @@
+
+Problema 7. Velocidad promedio
+
+Determina la velocidad promedio de un automóvil de un viaje completo, durante las primeras dos horas viaja a 27.8 m/s, luego viaja por dos horas más en donde va a 16.7 m/s y en la última hora viaja a 22.22 m/s.  
+    
+a) 26.42
+b) 23.32
+c) 22.24

@@ -1,0 +1,8 @@
+
+Problema 10. Desplazamiento
+
+Una persona trota hacia el este 300 m, luego al sur 400 m y finalmente al oeste 600 m. El tiempo empleado es de 9 min y 20 s. Halle distancia recorrida, desplazamiento, velocidad y rapidez.
+
+a) 300
+b) 500
+c) 700 

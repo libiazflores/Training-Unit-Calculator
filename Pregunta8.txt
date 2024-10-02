@@ -1,0 +1,9 @@
+
+Problema 8. Pendiente
+
+Amparito gráfica unos datos con la cual se sale una gráfica con pendiente, su profesor le pide que calcule la pendiente de su gráfica utilizando las coordenadas (5,9) y (10,0).
+¿Cuál sería la pendiente?
+
+a) -4.5
+b) -1.8
+c) 1.8

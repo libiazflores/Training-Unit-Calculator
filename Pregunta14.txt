@@ -1,0 +1,8 @@
+
+Problema 14. Rango 
+
+Una piedra es lanzada con una velocidad inicial de 30 m/s a un ángulo de 45 grados. se desea saber qué tan lejos llegó esa piedra. ¿Cuál es el rango que tuvo el lanzamiento?
+
+a) 64.87
+b) 65.47
+c) 68.97
